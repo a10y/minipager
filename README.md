@@ -8,8 +8,15 @@ page.
 DISCLAIMER: **NOT FOR PRODUCTION USE.**
 
 
+Starting out
+------------
+
+The following will go and install the dependencies (currently just the awesome [requests](http://docs.python-requests.org/en/master/) library):
+
+    > ./setup.sh
+
 Running
 -------
 
-    ./venv/bin/python minipager.py -h
+    > ./venv/bin/python minipager.py -h
 
