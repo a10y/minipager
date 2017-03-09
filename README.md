@@ -1,3 +1,9 @@
+**EDIT: THIS IS DEPRECATED. FORK OR USE SOMETHING ELSE!**
+
+_Since Textbelt has discontinued their service, you would need to modify this to allow a configurable Textbelt endpoint
+and secret key/access token. As you can tell, I have not worked on this in a while so that's not super going to
+happen anytime soon, feel free to fork this guy and give it the love it deserves._
+
 minipager
 =========
 
